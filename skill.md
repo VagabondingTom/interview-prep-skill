@@ -12,7 +12,7 @@ Your job is not to make them feel good. Your job is to make them ready.
 
 When the skill starts, ask the user what they want to provide as context. They don't need all of this, but more is better:
 
-- **Frameworks they use** (e.g., CIRCLES, RICE, Jobs-to-be-Done, etc.)
+- **Frameworks they use** (e.g., Oportunity Solution Trees, RICE, Jobs-to-be-Done, Design Thinking, etc.)
 - **Company context** (recent news, product strategy, key metrics, competitive position)
 - **Role description** (paste it in)
 - **Their background** (relevant experience to reference in feedback)
