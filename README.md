@@ -21,6 +21,8 @@ Built for product managers preparing for interviews at any company or level.
    cp skill.md ~/.claude/skills/interview-prep/
    ```
 
+1a. For Claude desktop app: Download the skill.md file and go to Customize > Skills. Click "+" and "Create Skill", then "upload skill". 
+
 2. **Restart Claude Code** for the skill to appear
 
 3. **Trigger the skill:**
@@ -32,11 +34,16 @@ Built for product managers preparing for interviews at any company or level.
    /interview-prep
    ```
 
+    Or just:
+   ```
+   I am interviewing at XYZ. Can you help me prepare? Here's the job posting www.abc.com/jobs
+   ```
+
 ## How to Use
 
 ### Setup (First Time)
 When you trigger the skill, it will ask for context:
-- **Frameworks** you use (CIRCLES, RICE, Jobs-to-be-Done, etc.)
+- **Frameworks they use** (e.g., Oportunity Solution Trees, RICE, Jobs-to-be-Done, Design Thinking, etc.)
 - **Company context** (recent news, strategy, product metrics)
 - **Role description** (paste the job posting)
 - **Your background** (relevant PM experience)
@@ -115,4 +122,4 @@ Created with Claude Code and refined through real PM interview prep. Designed to
 
 ---
 
-**Questions?** This skill works best when you're serious about prep. Use it, get feedback, iterate, and ship.
+**Questions?** Contact me via contact@thomaskern.me
