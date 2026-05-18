@@ -1,29 +1,33 @@
 # Interview Prep — PM Interview Coaching Skill
 
-A brutally honest AI interview coach that prepares you for product manager interviews through structured coaching and realistic mock interviews. No fluff, no participation trophies—just feedback that makes you ready.
+A brutally honest AI interview coach that prepares you for product manager interviews through structured coaching, feedback and realistic mock interviews. No participation trophies — just honest "AI" feedback that makes you ready for your next gig.
 
 ## What It Does
 
-**Interview Prep** is a Claude Code skill that simulates the internal monologue of a skeptical PM interviewer. It:
+**Interview Prep** is a Claude Code skill that simulates the interview situation. It's primarly build for product manager preparing for interviews at any company or level.
+ 
+ On top of that, it:
 
 - **Coaches your answers** in real-time with specific, actionable feedback
 - **Runs mock interviews** with full interviewer roleplay and debriefs
-- **Challenges weak thinking** — generic answers, missing metrics, unclear tradeoffs
+- **Challenges weak thinking** — e.g., generic answers, missing metrics, unclear tradeoffs
 - **Adapts to your company** — all feedback is tailored to the role and company context
 
-Built for product managers preparing for interviews at any company or level.
-
+ 
 ## Installation
 
 1. **Copy the skill file:**
-   ```bash
-   mkdir -p ~/.claude/skills/interview-prep
-   cp skill.md ~/.claude/skills/interview-prep/
+   ```
+   into your Claude directory e.g. ~/.claude/skills/interview-prep
    ```
 
-1a. For Claude desktop app: Download the skill.md file and go to Customize > Skills. Click "+" and "Create Skill", then "upload skill". 
+1a. For Claude Chat or Cowork 
+      - Download the skill.md file 
+      - go to Chat/Cowork > Customize > Create new skills 
+      - Click "+" and "Create Skill", then "upload skill". 
+      - Upload the skill.md file
 
-2. **Restart Claude Code** for the skill to appear
+2. **Restart Claude Code** for the skill to appear (not neccessary for Claude Chat or Cowork)
 
 3. **Trigger the skill:**
    ```
@@ -43,7 +47,7 @@ Built for product managers preparing for interviews at any company or level.
 
 ### Setup (First Time)
 When you trigger the skill, it will ask for context:
-- **Frameworks they use** (e.g., Oportunity Solution Trees, RICE, Jobs-to-be-Done, Design Thinking, etc.)
+- **Frameworks you are familiar** (e.g., Oportunity Solution Trees, RICE, Jobs-to-be-Done, Design Thinking, etc.)
 - **Company context** (recent news, strategy, product metrics)
 - **Role description** (paste the job posting)
 - **Your background** (relevant PM experience)
