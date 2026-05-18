@@ -94,27 +94,18 @@ Best for: full interview simulation before the real thing
 > Tell me about a time you had to make a product decision with incomplete data.
 ```
 
-## What Makes This Different
-
-- **Brutally honest** — feedback ratio is ~80% constructive, 20% positive
-- **Specific, not generic** — challenges vague answers and missing reasoning
-- **Interviewer-paced** — feedback mirrors how a real PM interview feels
-- **Company-aware** — all coaching is tailored to the company you're interviewing for
-
-This isn't a confidence builder. It's a readiness tool.
 
 ## Who It's For
 
-- PMs preparing for interviews at FAANG, startups, or scale-ups
+- PMs preparing for interviews at any type of company
 - Career switchers moving into PM roles
-- Anyone who wants honest feedback on their PM thinking
+- Anyone who wants "honest" AI-feedback on their PM thinking and skills
 - People who'd rather fail in practice than in the real interview
 
 ## Requirements
 
 - [Claude Code](https://claude.ai/code) (any version with skill support)
 - Internet connection (runs against Claude API)
-- 5–10 minutes per session
 
 ## License
 
